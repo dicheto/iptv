@@ -39,8 +39,6 @@ https://tv1.cloudcdn.bg:8081/stream.m3u8
 https://stream.osc.bg/tvart/Stream3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDarts.bg",TV Darts (576p)
 https://streamer103.neterra.tv/darts/live.m3u8
-#EXTINF:-1 tvg-id="TVPlus.bg",TV+
-http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1 tvg-id="EuroFolkTV.bg",EuroFolk TV (720p)
 https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041.m3u8
 #EXTINF:-1 tvg-id="TVNBulgaria.bg",TVN-Bulgaria (1080p)
@@ -53,6 +51,26 @@ https://ythls.onrender.com/channel/UCptENFbwjv79hmQPymnwKcA.m3u8
 https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="PIKTV.bg",PIK TV (720p)
 https://s.piktv.bg/l/live/index.m3u8
+#EXTINF:-1 tvg-id="PlovdivskaPravoslavnaTV.bg",Plovdivska Pravoslavna TV (1080p)
+http://78.130.149.196:1935/live/pptv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="bTV.bg",BTV HD
+https://mx86.glebul.com/hlsfhd/hd-btv-hd_hd1080/index.m3u8?e=1692277676&hash=XGOQIq4Az2xSkHLiQgIXqA
+#EXTINF:-1 tvg-id="BNT1.bg",BNT 1 
+https://de1.glebul.com/hls/hd-bnt-1-hd/index.m3u8?e=1692277851&hash=EYwdqk1gsSj9zO9jXMcssQ
+#EXTINF:-1 tvg-id="BNT2.bg",BNT 2
+https://cdn3.gledam.xyz/hls/bnt-2/index.m3u8?e=1692277965&hash=J8jiicpd2i4MfWKcNwkJJg
+#EXTINF:-1 tvg-id="BNT3.bg",BNT 3
+https://cdn3.gledam.xyz/hls/hd-bnt-3-hd/index.m3u8?e=1692278011&hash=RVh_cg10XM0nowcY4C3lNw
+#EXTINF:-1 tvg-id="BNT4.bg",BNT 4
+https://de1.glebul.com/hls/bnt-4/index.m3u8?e=1692278061&hash=Wn55mSwnr9DUpxV_Acf6vg
+#EXTINF:-1 tvg-id="bTVLady.bg",BTV Lady
+https://cdn3.gledam.xyz/hls/btv-lady/index.m3u8?e=1692278247&hash=wHtWhh82K8u1SqbP9m0mOw
+#EXTINF:-1 tvg-id="bTVAction.bg",BTV Action
+https://de1.glebul.com/hls/hd-btv-action-hd/index.m3u8?e=1692278132&hash=oDY7KfzmHpafrskdmaYi3w
+#EXTINF:-1 tvg-id="bTVCinema.bg",BTV Cinema
+https://cdn3.gledam.xyz/hls/btv-cinema/index.m3u8?e=1692278171&hash=ngCGE3dOiCgNKDT1XDXnVQ
+#EXTINF:-1 tvg-id="bTVComedy.bg",BTV Comedy 
+https://cdn3.gledam.xyz/hls/btv-comedy/index.m3u8?e=1692278211&hash=90gpfKQEq98mVdSSDv8QOA
 #EXTINF:-1 tvg-id="BNT1.bg",BNT 1 (1080p)
 http://79.124.21.251:9777/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="BNT3.bg",BNT 3 (1080p)
